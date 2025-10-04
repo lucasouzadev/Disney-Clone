@@ -33,6 +33,7 @@ O objetivo deste projeto foi recriar visualmente a interface da Disney+ para fin
 
 ```plaintext
 Disney-Clone/
+├── assets/
 ├── dist/
 ├── src/
   └── images/
