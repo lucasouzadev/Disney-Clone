@@ -33,9 +33,11 @@ O objetivo deste projeto foi recriar visualmente a interface da Disney+ para fin
 
 ```plaintext
 Disney-Clone/
-├── css/
-├── js/
-├── sass/
+├── dist/
+├── src/
+  └── images/
+  └── scripts/
+  └── styles/
 ├── index.html
 ├── gulpfile.js
 └── package.json
