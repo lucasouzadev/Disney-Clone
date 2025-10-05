@@ -25,7 +25,7 @@ O objetivo deste projeto foi recriar visualmente a interface da Disney+ para fin
 
 ## 🌟 Demonstração
 
-![Demonstração](https://via.placeholder.com/800x400.png?text=Imagem+ou+GIF+da+Página)
+![Demonstração]([https://via.placeholder.com/800x400.png?text=Imagem+ou+GIF+da+Página](https://lucasouzadev.github.io/Disney-Clone))
 
 > **Nota**: Inclua um link para o site ao vivo, caso tenha hospedado o projeto.
 
